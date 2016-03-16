@@ -1,4 +1,4 @@
-
+###############################
 #1 Find the last element of a list.
 
 list = ['a','b','c','d']
@@ -49,7 +49,7 @@ a= input("enter no")
 
 print a
 
-
+#################################3
 #6 check string Find out whether a list is a palindrome
 # name = raw_input("Enter a string: ")
 # rev_str = reversed(name)
